@@ -1,0 +1,49 @@
+_repo: The-untouchable-adolescents_73433
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: https://en.wikipedia.org/wiki/Kelly_Freas
+creator:
+  author:
+    agent_name: Ellison, Harlan
+    aliases:
+    - Beldone, Phil
+    - Beldone, Cheech
+    - Hart, Ellis
+    birthdate: 1934
+    deathdate: 2018
+    gutenberg_agent_id: '54230'
+    url: http://www.gutenberg.org/2009/agents/54230
+    wikipedia: https://en.wikipedia.org/wiki/Harlan_Ellison
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73433'
+language: en
+pgterms:marc905: 20240318170233hart
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bHeadline Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Earth-Kyba War
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The untouchable adolescents
+url: http://www.gutenberg.org/ebooks/73433
